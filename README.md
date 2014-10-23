@@ -2,6 +2,7 @@
 ## by Matt Chapman, @matt2000
 
 You probably just want to look at the PDF.
+Content.md has the same text, plus speaker notes.
 
 ## License
 
